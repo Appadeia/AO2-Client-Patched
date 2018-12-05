@@ -1,3 +1,6 @@
+# AO2 Client Patched
+This is a modified version of the client to have no copyrighted content & to be optimized for Linux.
+
 # Attorney-Online-Client-Remake
 This is a open-source remake of Attorney Online written by OmniTroid. The original Attorney Online client was written by FanatSors in Delphi.
 
